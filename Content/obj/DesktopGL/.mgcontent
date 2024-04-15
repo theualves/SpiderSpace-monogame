@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/ai-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/cavalo-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/jesus-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/pare-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/queisso-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/ship.png</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/shoot.png</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/spider.png</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/sprites-ship/ship-1.png</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/sprites-ship/ship-2.png</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/sprites-ship/ship-3.png</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/stars.jpg</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/tome-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/ui-effect.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

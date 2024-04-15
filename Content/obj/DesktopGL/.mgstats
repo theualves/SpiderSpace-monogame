@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/cavalo-effect.wav","C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/bin/DesktopGL/cavalo-effect.xnb","SoundEffectProcessor","SoundEffectContent",276614,276517,0,1721063
+"C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/jesus-effect.wav","C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/bin/DesktopGL/jesus-effect.xnb","SoundEffectProcessor","SoundEffectContent",515142,515033,0,0980461

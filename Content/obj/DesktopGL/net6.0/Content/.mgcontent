@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/ai-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/cavalo-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/jesus-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/pare-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/queisso-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/ship.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/shoot.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/spider.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sprites-ship/ship-1.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sprites-ship/ship-2.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sprites-ship/ship-3.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/stars.jpg</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/tome-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/ui-effect.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
