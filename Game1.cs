@@ -35,12 +35,20 @@ protected override void Initialize()
             Globals.SCREEN_WIDTH = _graphics.PreferredBackBufferWidth;
             Globals.SCREEN_HEIGHT = _graphics.PreferredBackBufferHeight;
 
-            _collisionSoundEffect.Add(Content.Load<SoundEffect>("pare-effect"));
-            _collisionSoundEffect.Add(Content.Load<SoundEffect>("cavalo-effect"));
-            _collisionSoundEffect.Add(Content.Load<SoundEffect>("jesus-effect"));
-            _collisionSoundEffect.Add(Content.Load<SoundEffect>("ui-effect"));
-            _collisionSoundEffect.Add(Content.Load<SoundEffect>("queisso-effect"));
-            _collisionSoundEffect.Add(Content.Load<SoundEffect>("ai-effect"));
+            try
+    {
+        _collisionSoundEffect.Add(Content.Load<SoundEffect>("sound-effects/pare-effect"));
+        _collisionSoundEffect.Add(Content.Load<SoundEffect>("sound-effects/ai-effect"));
+        _collisionSoundEffect.Add(Content.Load<SoundEffect>("sound-effects/ui-effect"));
+        _collisionSoundEffect.Add(Content.Load<SoundEffect>("sound-effects/tome-effect"));
+        _collisionSoundEffect.Add(Content.Load<SoundEffect>("sound-effects/cavalo-effect"));
+        _collisionSoundEffect.Add(Content.Load<SoundEffect>("sound-effects/jesus-effect"));
+        _collisionSoundEffect.Add(Content.Load<SoundEffect>("sound-effects/queisso-effect"));
+    }
+    catch
+    {
+        // Exceção ignorada
+    }
             _projectileTexture = Content.Load<Texture2D>("shoot");
             List<Texture2D> shipTextures = new List<Texture2D>()
             {

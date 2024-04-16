@@ -107,3 +107,11 @@ C:\Users\Matheus\Desktop\SpiderSpace-monogame\obj\Debug\net6.0\refint\Game-engin
 C:\Users\Matheus\Desktop\SpiderSpace-monogame\obj\Debug\net6.0\Game-engine.pdb
 C:\Users\Matheus\Desktop\SpiderSpace-monogame\obj\Debug\net6.0\Game-engine.genruntimeconfig.cache
 C:\Users\Matheus\Desktop\SpiderSpace-monogame\obj\Debug\net6.0\ref\Game-engine.dll
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\obj\Debug\net6.0\Game-engine.sourcelink.json
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\bin\Debug\net6.0\Content\sound-effects\ai-effect.xnb
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\bin\Debug\net6.0\Content\sound-effects\cavalo-effect.xnb
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\bin\Debug\net6.0\Content\sound-effects\jesus-effect.xnb
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\bin\Debug\net6.0\Content\sound-effects\pare-effect.xnb
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\bin\Debug\net6.0\Content\sound-effects\queisso-effect.xnb
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\bin\Debug\net6.0\Content\sound-effects\tome-effect.xnb
+C:\Users\Matheus\Desktop\SpiderSpace-monogame\bin\Debug\net6.0\Content\sound-effects\ui-effect.xnb

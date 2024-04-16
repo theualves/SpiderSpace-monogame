@@ -13,36 +13,6 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin ai-effect.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:ai-effect.wav
-
-#begin cavalo-effect.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:cavalo-effect.wav
-
-#begin jesus-effect.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:jesus-effect.wav
-
-#begin pare-effect.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:pare-effect.wav
-
-#begin queisso-effect.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:queisso-effect.wav
-
 #begin ship.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -66,6 +36,48 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:shoot.png
+
+#begin sound-effects/ai-effect.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound-effects/ai-effect.wav
+
+#begin sound-effects/cavalo-effect.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound-effects/cavalo-effect.wav
+
+#begin sound-effects/jesus-effect.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound-effects/jesus-effect.wav
+
+#begin sound-effects/pare-effect.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound-effects/pare-effect.wav
+
+#begin sound-effects/queisso-effect.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound-effects/queisso-effect.wav
+
+#begin sound-effects/tome-effect.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound-effects/tome-effect.wav
+
+#begin sound-effects/ui-effect.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:sound-effects/ui-effect.wav
 
 #begin spider.png
 /importer:TextureImporter
@@ -126,16 +138,4 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:stars.jpg
-
-#begin tome-effect.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:tome-effect.wav
-
-#begin ui-effect.wav
-/importer:WavImporter
-/processor:SoundEffectProcessor
-/processorParam:Quality=Best
-/build:ui-effect.wav
 

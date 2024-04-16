@@ -134,8 +134,15 @@ namespace Game_engine
 
                 if (projectileBounds.Intersects(spiderBounds))
                 {
-                    int index = _random.Next(_collisionSoundEffects.Count);
-                    _collisionSoundEffects[index].Play();
+                   try
+            {
+                int index = _random.Next(_collisionSoundEffects.Count);
+                _collisionSoundEffects[index].Play();
+            }
+            catch
+            {
+                // Exceção ignorada
+            }
                     // Remove o projétil
                     _projectiles.Remove(projectile);
                     break;

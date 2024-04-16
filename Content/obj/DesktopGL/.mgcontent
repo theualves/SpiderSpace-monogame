@@ -4,20 +4,20 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/ai-effect.wav</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/cavalo-effect.wav</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/jesus-effect.wav</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/pare-effect.wav</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/queisso-effect.wav</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/ship.png</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/shoot.png</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/spider.png</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/sprites-ship/ship-1.png</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/sprites-ship/ship-2.png</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/sprites-ship/ship-3.png</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/stars.jpg</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/tome-effect.wav</File>
-    <File>C:/Users/Matheus/Desktop/Game-engine/Game-engine/Content/ui-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/ship.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/shoot.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sound-effects/ai-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sound-effects/cavalo-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sound-effects/jesus-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sound-effects/pare-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sound-effects/queisso-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sound-effects/tome-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sound-effects/ui-effect.wav</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/spider.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sprites-ship/ship-1.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sprites-ship/ship-2.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/sprites-ship/ship-3.png</File>
+    <File>C:/Users/Matheus/Desktop/SpiderSpace-monogame/Content/stars.jpg</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
